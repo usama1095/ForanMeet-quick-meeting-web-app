@@ -3,7 +3,7 @@
 A simple and lightweight Meeting Scheduler web application built using HTML, CSS, and JavaScript.
 This app allows users to select a date and time and instantly generate a unique Jitsi Meet meeting link — no login, no backend required.
 
-[Live Preview ](http://officialranausama.me/web_projects/quick-meeting-project/)
+[Live Preview](http://officialranausama.me/ForanMeet-quick-meeting-web-app/quick-meeting-project/)
 
  
 🚀 Features
