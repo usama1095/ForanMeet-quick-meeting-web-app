@@ -155,6 +155,11 @@ function renderMeetings() {
   const container = document.getElementById("meetings");
   container.innerHTML = "";
 
+  if (meetings.length === 0) {
+    container.innerHTML = "<p>No meeting links generated yet</p>";
+    return;
+  }
+
   meetings.forEach((m, i) => {
     container.innerHTML += `
       <div class="border rounded p-3 mb-3">
@@ -177,6 +182,7 @@ function renderMeetings() {
     `;
   });
 }
+
 
 function deleteMeeting(index) {
   meetings.splice(index,1);
