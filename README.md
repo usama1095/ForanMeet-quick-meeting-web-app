@@ -1,57 +1,139 @@
-# 🌐 Web Projects by Rana Usama
+## 📅 ForanMeet- Meeting Scheduler Web App
 
-Welcome to my **Web Projects Portfolio**!  
-This repository contains all my web development projects built using **HTML, CSS, JavaScript, Bootstrap**, and more. Each project is **live online** and fully functional.
+A simple and lightweight Meeting Scheduler web application built using HTML, CSS, and JavaScript.
+This app allows users to select a date and time and instantly generate a unique Jitsi Meet meeting link — no login, no backend required.
 
----
+[Live Preview ](http://officialranausama.me/web_projects/quick-meeting-project/)
 
-## 🔥 Live Projects
+ 
+🚀 Features
 
-| Project Name | Description | Live Demo | GitHub Repo |
-|--------------|-------------|-----------|-------------|
-| **Quick Meeting Project** | A lightweight web app to schedule meetings with unique Jitsi links instantly. | [Live Demo](https://usama1095.github.io/web_projects/quick-meeting-project/) | [GitHub](https://github.com/usama1095/web_projects/tree/main/quick-meeting-project) |
-| **Project 2** | Short description of your second project. | [Live Demo](#) | [GitHub](#) |
-| **Project 3** | Short description of your third project. | [Live Demo](#) | [GitHub](#) |
+📆 Select meeting date
 
-> ⭐ Add more projects in the table as you build them.
+⏰ Select meeting time
 
----
+🔗 Auto-generates a unique Jitsi Meet meeting link
 
-## 🛠️ Technologies Used
+🌐 Opens meeting directly in the browser
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Icons & Fonts:** Font Awesome  
-- **Live Hosting:** GitHub Pages / Netlify
+🎨 Clean and responsive UI
 
----
+⚡ Fully client-side (No server / No database)
 
----
+🔐 Randomized meeting room name for privacy
 
-## 📄 How to Run Projects Locally
+🛠️ Technologies Used
 
-1. Clone the repository:
+HTML5
 
-```bash
-git clone https://github.com/usama1095/web_projects.git
-📢 About Me
+CSS3
 
-Rana Usama – Web Developer & Tech Enthusiast
+JavaScript (Vanilla JS)
 
-💼 Fiverr: ranausama881
+Jitsi Meet
 
-🐙 GitHub: usama1095
+Font Awesome
 
-📸 Instagram: @ishowtechskills
+📸 Screenshots
 
-⭐ Support & Contributions
+📌 Add screenshots by creating a folder named screenshots and uploading images.
 
-If you like my work:
+![Home Screen](https://res.cloudinary.com/daqmobuym/image/upload/v1767196594/ydzffalm1tthswgmdeh9.png)
+![Meeting Created](https://res.cloudinary.com/daqmobuym/image/upload/v1767196598/lefe3t3sc7eavk3qy5g7.png)
+
+(Optional but highly recommended for GitHub visibility)
+
+
+▶️ How to Use
+
+Clone the repository:
+```
+git clone https://github.com/usama1095/quick-meeting-project.git
+```
+
+
+
+
+Open index.html in any modern browser.
+
+Select:
+
+📅 Date
+
+⏰ Time
+
+Click Create Meeting
+
+Share the generated meeting link 🎉
+
+🌍 Deploy on GitHub Pages (Free Hosting)
+
+Follow these steps to make it live:
+
+Push your project to GitHub
+
+Go to Repository → Settings
+
+Click Pages
+
+Under Source, select:
+
+Branch: main
+
+Folder: /root
+
+Click Save
+
+Your site will be live at:
+
+[Preview](http://officialranausama.me/web_projects/quick-meeting-project/)
+
+🔮 Future Improvements
+
+📧 Email invitation system
+
+🗓️ Google Calendar integration
+
+👥 Participant name input
+
+🔐 Password-protected meetings
+
+📱 Mobile-first UI
+
+⚛️ React / MERN version
+
+🧠 AI-based smart scheduling
+
+👨‍💻 Author
+
+Rana Usama
+
+💼 Fiverr: [ranausama881](https://www.fiverr.com/ranausama881)
+
+🐙 GitHub: [usama1095](https://github.com/usama1095)
+
+📸 Instagram: [ishowtechskills](https://www.instagram.com/ishowtechskills)
+
+📜 License
+
+This project is open-source and free to use for:
+
+Learning
+
+Personal projects
+
+Portfolio showcase
+
+⭐ Support & Contribution
+
+If you like this project:
 
 ⭐ Star the repo
 
 🍴 Fork it
 
-🛠️ Improve & contribute
+🛠️ Improve it
 
-📢 Share it with friends
+📢 Share it
 
+Pull requests are welcome!
