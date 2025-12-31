@@ -38,8 +38,8 @@ Font Awesome
 
 📌 Add screenshots by creating a folder named screenshots and uploading images.
 
-[Home Screen](https://res.cloudinary.com/daqmobuym/image/upload/v1767196594/ydzffalm1tthswgmdeh9.png)
-[Meeting Created](https://res.cloudinary.com/daqmobuym/image/upload/v1767196598/lefe3t3sc7eavk3qy5g7.png)
+![Home Screen](https://res.cloudinary.com/daqmobuym/image/upload/v1767196594/ydzffalm1tthswgmdeh9.png)
+![Meeting Created](https://res.cloudinary.com/daqmobuym/image/upload/v1767196598/lefe3t3sc7eavk3qy5g7.png)
 
 (Optional but highly recommended for GitHub visibility)
 
